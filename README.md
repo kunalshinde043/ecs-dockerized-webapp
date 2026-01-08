@@ -11,6 +11,10 @@ This project demonstrates how to containerize a Python web application using Doc
 - Custom Security Group for inbound traffic control
 - Amazon CloudWatch for centralized logging
 
+## Architecture Diagram
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/177f6fe5-3b01-4f77-b438-2df70b44ca28" />
+
 ## Deployment Flow
 1. Created a Dockerfile to containerize the Flask application
 2. Built and tested the Docker image locally
