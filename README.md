@@ -13,7 +13,7 @@ This project demonstrates how to containerize a Python web application using Doc
 
 ## Architecture Diagram
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/177f6fe5-3b01-4f77-b438-2df70b44ca28" />
+<img width="1536" height="1024" alt="ECS_Architecture_Diagram" src="https://github.com/user-attachments/assets/3c0cbe5b-d38c-4935-931a-f8714ea68c7f" />
 
 ## Deployment Flow
 1. Created a Dockerfile to containerize the Flask application
